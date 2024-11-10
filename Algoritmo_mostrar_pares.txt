@@ -1,0 +1,12 @@
+Algoritmo mostrar_pares
+    // Definir las variables
+    Definir i Como Entero
+
+    // Mostrar mensaje de inicio
+    Escribir "Los números pares del 1 al 100 son:"
+
+    // Usar un bucle para recorrer los números del 1 al 100
+    Para i <- 2 Hasta 100 Paso 2
+        Escribir i // Mostrar el número par
+    Fin Para
+Fin Algoritmo
