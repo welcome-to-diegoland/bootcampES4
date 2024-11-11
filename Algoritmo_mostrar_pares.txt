@@ -7,4 +7,4 @@ Algoritmo mostrar_pares
         Escribir i
     Fin Para
 Fin Algoritmo
-// comentario de cabio
+// comentario de cambio
