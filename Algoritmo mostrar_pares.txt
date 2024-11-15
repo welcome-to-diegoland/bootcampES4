@@ -8,3 +8,4 @@ Algoritmo mostrar_pares
     Fin Para
 Fin Algoritmo
 // comentario de cabio
+cambio
